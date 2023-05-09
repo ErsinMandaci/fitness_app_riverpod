@@ -6,13 +6,28 @@ Bu uygulama, Riverpod becerilerimi geliştirmek için yaptığım ve aynı zaman
 
 
 # Örnek Uygulama Resimleri
+<br>
+<br>
+<br>
 
+# Ana Ekran
 ![Ana Ekran](appImage/home1.png)
 <br>
+<br>
+<br>
+
+# Ana Ekran
 ![Ana Ekran](appImage/home2.png)
 <br>
+<br>
+<br>
+
+# Egzersiz Ekranı
 ![Ana Ekran](appImage/name1.png)
 <br>
+<br>
+<br>
+# Egzersiz Ekranı
 ![Ana Ekran](appImage/name2.png)
 
 
