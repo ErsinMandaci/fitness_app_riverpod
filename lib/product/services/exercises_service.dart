@@ -9,7 +9,7 @@ class ExcercisesService {
     var exercisesUrlParse = Uri.parse(StringConstants.apiPath);
 
     final response = await http.get(exercisesUrlParse, headers: {
-      'X-Api-Key': 'lRgn4V8NRaYeQGR0Te7z2A==OMBVH3PUgZqzxpKy',
+      'X-Api-Key': '1231231232131233',
     });
 
     if (response.statusCode == 200) {

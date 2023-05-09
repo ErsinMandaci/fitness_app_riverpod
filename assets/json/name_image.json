@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "muscle": "forearms",
+        "name": "Rickshaw Carry",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2022/04/Single-Leg-Press.gif"
+    },
+    {
+        "id":"2",
+        "muscle": "quadriceps",
+        "name": "Single-Leg Press",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2022/04/Single-Leg-Press.gif"
+    },
+    {
+        "id":"3",
+        "muscle": "abdominals",
+        "name": "Landmine twist",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Landmine-Twist.gif"
+    },
+    {
+        "id":"4",
+        "muscle": "lats",
+        "name": "Weighted pull-up",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Weighted-Pull-up.gif"
+    },
+    {
+        "id":"5",
+        "muscle": "middle_back",
+        "name": "T-Bar Row with Handle",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/06/T-Bar-Row.gif"
+    },
+    {
+        "id":"1",
+        "muscle": "forearms",
+        "name": "Palms-down wrist curl over bench",
+        "imageUrl": "https://newlife.com.cy/wp-content/uploads/2019/11/01251301-Barbell-Wrist-Curl-II_Forearms_360.gif"
+    },
+    {
+        "id":"6",
+        "muscle": "lower_back",
+        "name": "Atlas Stones",
+        "imageUrl": "https://newlife.com.cy/wp-content/uploads/2019/12/01271301-Barbell-Zercher-Squat_Hips_360.gif"
+    },
+    {
+        "id":"7",
+        "muscle": "shoulders",
+        "name": "Dumbbell front raise to lateral raise",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/10/Dumbbell-Lateral-to-Front-Raise.gif"
+    },
+    {
+        "id":"2",
+        "muscle": "quadriceps",
+        "name": "Clean from Blocks",
+        "imageUrl": "https://gymvisual.com/img/p/6/9/9/5/6995.gif"
+    },
+    {
+        "id":"8",
+        "muscle": "biceps",
+        "name": "Incline Hammer Curls",
+        "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Seated-Incline-Dumbbell-Curl.gif"
+    }
+]
