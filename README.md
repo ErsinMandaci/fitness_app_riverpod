@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # fitness_app_riverpod
 Bu uygulama, Riverpod becerilerimi geliştirmek için yaptığım ve aynı zamanda spor yapan kişilerin antrenmanlarına yardımcı olmak için tasarlanmış bir fitness uygulamasıdır. Uygulama, kullanıcılara farklı kas gruplarını hedef alan egzersizlerin bir listesini sunar ve seçilen egzersizleri uygulama içinde izlemelerine yardımcı olur.
 =======
@@ -18,4 +18,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 9f272c1 (Fitness Uygulaması)
+ 9f272c1 (Fitness Uygulaması)
