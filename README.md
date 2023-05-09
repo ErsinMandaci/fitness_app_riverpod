@@ -5,8 +5,15 @@ Bu uygulama, Riverpod becerilerimi geliştirmek için yaptığım ve aynı zaman
 # fitness_app
 
 
-![Ana Ekran](appImage/home1.png)
+# Örnek Uygulama Resimleri
 
-## Getting Started
+![Ana Ekran](appImage/home1.png)
+<br>
+![Ana Ekran](appImage/home2.png)
+<br>
+![Ana Ekran](appImage/name1.png)
+<br>
+![Ana Ekran](appImage/name2.png)
+
 
 
