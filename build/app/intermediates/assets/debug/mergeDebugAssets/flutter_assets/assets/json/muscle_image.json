@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "muscle": "forearms",
+        "imageUrl": "https://www.muscleandfitness.com/wp-content/uploads/2018/08/1109-massive-forearms.jpg?quality=86&strip=all"
+    },
+    {
+        "id":"2",
+        "muscle": "quadriceps",
+        "imageUrl": "https://img.freepik.com/premium-photo/image-powerful-athlete-doing-quadriceps-exercise-gym-fitness-bodybuilding-concept-mixed-media_392761-3968.jpg?w=1380"
+    },
+    {
+        "id":"3",
+        "muscle": "abdominals",
+        "imageUrl": "https://img.freepik.com/premium-photo/fit-man-training-abs-muscles-gym_174475-2465.jpg?w=740"
+    },
+    {
+        "id":"4",
+        "muscle": "lats",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/1876/4703/articles/Lat_pulldowns_machine_-_cover_-_shutterstock_2137570149_2000x.progressive.jpg?v=1661886914"
+    },
+    {
+        "id":"5",
+        "muscle": "middle_back",
+        "imageUrl": "https://1upnutrition.com/cdn/shop/articles/Master_your_Mid_Back_construction_600x400_crop_center@2x.progressive.jpg?v=1578319197"
+    },
+    {
+        "id":"6",
+        "muscle": "lower_back",
+        "imageUrl": "https://barbend.com/wp-content/uploads/2023/02/Barbend.com-A-bodybuilders-lower-back.jpg"
+    },
+    {
+        "id":"7",
+        "muscle": "shoulders",
+        "imageUrl": "https://barbend.com/wp-content/uploads/2022/04/shutterstock_102169051-1.jpg"
+    },
+    {
+        "id":"8",
+        "muscle": "biceps",
+        "imageUrl": "https://www.dmarge.com/wp-content/uploads/2021/09/dumbbell-bicep-workout.jpg"
+    }
+]
