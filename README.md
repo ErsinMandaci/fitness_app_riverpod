@@ -5,7 +5,6 @@ Bu uygulama, Riverpod becerilerimi geliştirmek için yaptığım ve aynı zaman
 # fitness_app
 
 
-<img src="images/image.jpg" width="200">
 ![Ana Ekran](appImage/home1.png)
 
 ## Getting Started
